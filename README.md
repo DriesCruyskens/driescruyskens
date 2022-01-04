@@ -5,7 +5,7 @@
 
 <https://www.wazza.download/>
 
-### Stack
+iOS and Android app using
 
 - Flutter
 - Firebase
@@ -22,34 +22,46 @@ Most sketches have a web version you can play around with!
 
 <table>
   <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/DriesCruyskens/wave">Wave</a></h3>
-      <img src="/images/waves1.jpg"  width="300"/>
+    <td align="center">
+      <a href="https://github.com/DriesCruyskens/wave">
+        <img src="/images/waves1.jpg" width="300px;" alt=""/><br />
+        <b>Wave</b>
+      </a>
     </td>
-    <td valign="top">
-      <h3><a href="https://github.com/DriesCruyskens/chrome">Chrome</a></h3>
-      <img src="/images/chrome.jpg"  width="300"/>
+    <td align="center">
+      <a href="https://github.com/DriesCruyskens/chrome">
+        <img src="/images/chrome.jpg" width="300px;" alt=""/><br />
+        <b>Chrome</b>
+      </a>
     </td>
-    <td valign="top">
-      <h3><a href="https://github.com/DriesCruyskens/seis">Seis</a></h3>
-      <img src="/images/seis.jpg"  width="300"/>
+    <td align="center">
+      <a href="https://github.com/DriesCruyskens/seis">
+        <img src="/images/seis.jpg" width="300px;" alt=""/><br />
+        <b>Seis</b>
+      </a>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/DriesCruyskens/pillar">Pillar</a></h3>
-      <img src="/images/IMG_20200615_153937.jpg"  width="300"/>
+    <td align="center">
+      <a href="https://github.com/DriesCruyskens/pillar">
+        <img src="/images/IMG_20200615_153937.jpg" width="300px;" alt=""/><br />
+        <b>Pillar</b>
+      </a>
     </td>
-    <td valign="top">
-      <h3><a href="https://github.com/DriesCruyskens/harmonograph">Harmonograph</a></h3>
-      <img src="/images/HG01.jpg"  width="300"/>
+    <td align="center">
+      <a href="https://github.com/DriesCruyskens/harmonograph">
+        <img src="/images/HG01.jpg" width="300px;" alt=""/><br />
+        <b>Harmonograph</b>
+      </a>
     </td>
-    <td valign="top">
-      <h3><a href="https://github.com/DriesCruyskens/tangle-of-webs-2D">Tangle of webs 2D</a></h3>
-      <img src="/images/tangle-of-webs-2D.jpg"  width="300"/>
+    <td align="center">
+      <a href="https://github.com/DriesCruyskens/tangle-of-webs-2D">
+        <img src="/images/tangle-of-webs-2D.jpg" width="300px;" alt=""/><br />
+        <b>Tangle of webs 2D</b>
+      </a>
     </td>
   </tr>
 </table>
@@ -62,6 +74,12 @@ Most sketches have a web version you can play around with!
 ## Cybersecurity
 
 Kali Linux, tmux, Typora
+
+### OverTheWire
+
+- [x] Bandit
+
+### HackTheBox
 
 [![](https://www.hackthebox.com/badge/image/116623)](https://www.hackthebox.eu/profile/116623)
 
@@ -81,7 +99,7 @@ These projects are not original and follow a book or article.
 - Raytracer (<https://github.com/DriesCruyskens/raytracing-in-one-weekend>)
 - CHIP-8 interpreter (<https://github.com/DriesCruyskens/rust-chip-8>)
 - Recreation of the fire from the game DOOM (1993) (<https://github.com/DriesCruyskens/doomfire>)
-  <img src="https://github.com/DriesCruyskens/doomfire/raw/master/doomfire.gif"  width="300"/>
+
 
 ## Stats
 
