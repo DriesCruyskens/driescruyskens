@@ -87,6 +87,15 @@ Kali Linux, tmux, Typora
 ### Writeups 
 -->
 
+## Favorite Books
+
+- [The Missing README](https://nostarch.com/missing-readme)
+- [How Linux Works](https://nostarch.com/howlinuxworks3)
+- [The Linux Command Line](https://nostarch.com/tlcl2)
+- [The Rust Programming Language](https://nostarch.com/Rust2018)
+- [Computer Graphics from Scratch](https://nostarch.com/computer-graphics-scratch)
+- [The Nature of Code](https://natureofcode.com/)
+
 ## Other projects
 
 ### Raspberry Pi projects
