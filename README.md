@@ -94,6 +94,7 @@ Kali Linux, tmux, Typora
 - [The Linux Command Line](https://nostarch.com/tlcl2)
 - [The Rust Programming Language](https://nostarch.com/Rust2018)
 - [Computer Graphics from Scratch](https://nostarch.com/computer-graphics-scratch)
+- [The Book of Shaders](https://thebookofshaders.com/)
 - [The Nature of Code](https://natureofcode.com/)
 
 ## Other projects
