@@ -14,7 +14,7 @@ iOS and Android app using
 
 ## Mugenosu (Generative Art)
 
-[Instagram](https://www.instagram.com/mugenosu/), [portfolio website](https://mugenosu.xyz/) and its [repo](https://github.com/DriesCruyskens/mugenosu).
+[Instagram](https://www.instagram.com/mugenosu/), [portfolio website](https://mugenosu.ink/) and its [repo](https://github.com/DriesCruyskens/mugenosu).
 
 ### Showcase
 
