@@ -70,6 +70,16 @@ Most sketches have a web version you can play around with!
 - [Flow](https://github.com/DriesCruyskens/flow)
 - [Tangle of webs 3D](https://github.com/DriesCruyskens/tangle-of-webs-3D)
 
+## Packages
+
+### NPM
+
+- [differential-growth-rs-wasm](https://www.npmjs.com/package/differential-growth-rs-wasm)
+
+### Crates.io
+
+- [differential-growth](https://crates.io/crates/differential-growth)
+
 
 ## Cybersecurity
 
