@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Dries Cruyskens
-### A Sofware Engineer with a passion for Networking, Cybersecurity and Generative Art.
+### A Sofware Engineer with a passion for Computer Networking, Cybersecurity and Generative Art.
 
 ## Wazza!
 
