@@ -1,17 +1,6 @@
 # Hi there 👋, I'm Dries Cruyskens
 ### A Sofware Engineer with a passion for Computer Networking, Cybersecurity and Generative Art.
 
-## Wazza!
-
-<https://www.wazza.download/>
-
-iOS and Android app using
-
-- Flutter
-- Firebase
-- Google Cloud
-- Fastlane
-
 ## Mugenosu (Generative Art)
 
 [Instagram](https://www.instagram.com/mugenosu/), [portfolio website](https://mugenosu.ink/) and its [repo](https://github.com/DriesCruyskens/mugenosu).
