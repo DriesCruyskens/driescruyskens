@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Dries Cruyskens
 ### A Sofware Engineer with a passion for Computer Networking, Cybersecurity and Generative Art.
 
-[![Anurag's GitHub stats](https://github-readme-stats-eta-ten-58.vercel.app/api?username=driescruyskens)](https://github.com/anuraghazra/github-readme-stats)
+![Dries' GitHub stats](https://github-readme-stats-eta-ten-58.vercel.app/api?username=driescruyskens)
 <br>
-![Top Langs](https://github-readme-stats-eta-ten-58.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Dries' Top Languages](https://github-readme-stats-eta-ten-58.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Mugenosu (Generative Art)
 
