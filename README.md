@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Dries Cruyskens
 ### A Sofware Engineer with a passion for Computer Networking, Cybersecurity and Generative Art.
 
+[![Anurag's GitHub stats](https://github-readme-stats-eta-ten-58.vercel.app/api?username=driescruyskens)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats-eta-ten-58.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Mugenosu (Generative Art)
 
 [Instagram](https://www.instagram.com/mugenosu/), [portfolio website](https://mugenosu.driesc.dev/) and its [repo](https://github.com/DriesCruyskens/mugenosu).
@@ -108,10 +112,3 @@ These projects are not original and follow a book or article.
 - Raytracer (<https://github.com/DriesCruyskens/raytracing-in-one-weekend>)
 - CHIP-8 interpreter (<https://github.com/DriesCruyskens/rust-chip-8>)
 - Recreation of the fire from the game DOOM (1993) (<https://github.com/DriesCruyskens/doomfire>)
-
-
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=driescruyskens)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driescruyskens)](https://github.com/anuraghazra/github-readme-stats)
